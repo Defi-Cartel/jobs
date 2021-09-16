@@ -30,6 +30,5 @@ DeFi is a dark forest and we are the sharks who hunt within it. We are looking f
 
 We don’t discriminate on the basis of race, nationality, gender identity, age, disability, or religion. If you think you have what it takes to be a successful MEV engineer, get in touch for a chat.
 
-Twitter: https://twitter.com/NathanWorsley_  
 Email: nathanw@tutanota.com  
 Discord: Nathan_#2260
