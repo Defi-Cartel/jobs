@@ -1,6 +1,6 @@
 ## We are hiring!
 
-Do you want to be a full-time MEV engineer working on the bleeding edge of blockchain?
+Do you want to be a full-time MEV engineer working on the bleeding edge of blockchain technology?
 
 Interested in arbitrage trading, liquidations, sandwiches, front-runner exploitation, and other forms of new alpha?
 
