@@ -41,4 +41,3 @@ We would ideally like someone in London who can work a few days a week in our ce
 We don’t discriminate on the basis of race, nationality, gender identity, age, disability, or religion. If you think you have what it takes to be successful in this role, get in touch for a chat.
 
 **Email:** hiring@convexity.partners
-
